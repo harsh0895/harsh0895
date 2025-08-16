@@ -70,12 +70,10 @@ Passionate data engineer with expertise in designing, building, and maintaining 
 </p>  
 
 
-
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 📊 GitHub Stats
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh0895&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0895&layout=compact&theme=radical)
 
 
